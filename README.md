@@ -45,7 +45,7 @@ To design and develop a Railway Management System that efficiently handles train
 
 # PACKAGE DIAGRAM:
 
-<img width="1118" height="714" alt="Screenshot 2025-10-28 155600" src="https://github.com/user-attachments/assets/489e85b1-4839-4f00-be29-d9db81f68b4c" />
+<img width="1105" height="777" alt="Screenshot 2025-11-09 103318" src="https://github.com/user-attachments/assets/6339213b-5bb8-44bd-a0fe-da997d02a121" />
 
 
 # RESULT:
